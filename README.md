@@ -6,6 +6,13 @@ Combina un potente motor algebraico escrito en Python para simular movimientos g
 
 ---
 
+# 🧩 Participantes:
+
+Sebastian Garcia
+Juan Holguin
+Samuel Moya
+Luigi Rincon
+
 ## 🧠 Parte 1: El Modelo Matemático y Lógica Estructural del Algoritmo
 
 Para que el algoritmo Python resuelva los trillones de combinaciones del Cubo de Rubik con extrema rapidez y bajo costo computacional, desechamos la idea natural de renderizar el objeto 3D en la memoria, ya que trazar cada cara, vértice y arista tridimensional es dolorosamente lento. En lugar de eso, el cubo fue "aplastado" conceptualmente bajo matrices de estado lineales.
