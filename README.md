@@ -8,10 +8,10 @@ Combina un potente motor algebraico escrito en Python para simular movimientos g
 
 # 🧩 Participantes:
 
-Sebastian Garcia
-Juan Holguin
-Samuel Moya
-Luigi Rincon
+Sebastian Garcia,
+Juan Holguin,
+Samuel Moya,
+Luigi Rincon.
 
 ## 🧠 Parte 1: El Modelo Matemático y Lógica Estructural del Algoritmo
 
